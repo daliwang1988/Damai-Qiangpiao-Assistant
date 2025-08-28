@@ -52,9 +52,6 @@
 
 仅本地执行辅助操作，不采集账号、支付、聊天等敏感信息
 
-### 问题/订单处理
-
-[daliwang1988@gmail.com](mailto:daliwang1988@gmail.com)
 
 ### 提示
 
